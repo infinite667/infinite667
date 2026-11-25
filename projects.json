@@ -1,0 +1,8 @@
+[
+ {"id":"sinfi","name":"Sinfi","category":"Security","language":"Shell","icon":"wifi","lines":["Wi-Fi auditing toolkit for Linux.","Wireless security research."],"verified":true,"url":"https://github.com/infinite667/Sinfi"},
+ {"id":"darkussurf","name":"DarkusSurf","category":"Privacy","language":"Go","icon":"privacy","lines":["Tor connection management and","network privacy tooling."],"verified":true,"url":"https://github.com/infinite667/DarkusSurf"},
+ {"id":"redeyemap","name":"RedEyeMap","category":"Security","language":"Shell","icon":"map","lines":["Interactive extension and wrapper","for Nmap."],"verified":true,"url":"https://github.com/infinite667/RedEyeMap"},
+ {"id":"roguecat","name":"RogueCat","category":"Research","language":"Research","icon":"cat","lines":["Vulnerability research collection.","Repository link to be confirmed."],"verified":false,"url":"https://github.com/infinite667?tab=repositories&q=RogueCat"},
+ {"id":"conspy","name":"conspy-shell","category":"Research","language":"Research","icon":"shell","lines":["Security research project.","Repository link to be confirmed."],"verified":false,"url":"https://github.com/infinite667?tab=repositories&q=conspy"},
+ {"id":"threatscope","name":"ThreatScope","category":"Security","language":"TypeScript","icon":"scope","lines":["Base code for the ThreatScope","security project."],"verified":true,"url":"https://github.com/infinite667/ThreatScope"}
+]

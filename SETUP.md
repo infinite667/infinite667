@@ -1,9 +1,11 @@
-# Install PROJECT: RENEKTON — Command Center
+# Installation — infinite667 profile
 
-1. Back up the existing README in https://github.com/infinite667/infinite667.
-2. Copy README.md and the entire assets/ directory to the root of that existing repository. Commit changes.
-3. Optional: copy index.html to the root as well. In Settings → Pages, select Deploy from a branch, choose the default branch and /(root), and save. Once Pages publishes, the README dashboard link will work. If you do not enable Pages, remove the Interactive dashboard link from README.md.
-4. Open index.html locally to preview without deployment. Refresh GitHub data is opt-in and contacts GitHub's public REST API. GitHub API rate limits and browser/network policies apply.
-5. Confirm the exact repository names for RogueCat and conspy-shell; until then their links intentionally open a repository search. Edit projects.json and rebuild assets if desired (Python 3, Pillow; run python build.py then python finish.py). Update the snapshot manually in build.py/finish.py when needed.
+1. Back up the existing README in https://github.com/infinite667/infinite667. Use a new branch if possible.
+2. Upload README.md and the assets/ folder to that repository root. No installation, credentials, scripts or workflows are required for the native profile.
+3. Preview README.md on the branch. Merge only when satisfied. To roll back, revert the commit.
+4. Optional: upload index.html and snapshot.json. To host the dashboard, enable GitHub Pages in Settings > Pages, select the intended branch and /(root), and use the actual published URL in README.md instead of the dashboard source link. Without Pages, open index.html locally.
+5. Snapshot values are dated 25 November 2026. The dashboard Refresh button requests public repository metadata and recent events from api.github.com only; it does not refresh the historical contribution chart. No token or write permission is requested.
+6. To update the static charts later, replace snapshot.json and regenerate the matching SVG files/embedded HTML data manually. No automation is installed.
 
-The native README uses local SVG images, normal links and details sections, with no scripts, tokens, third-party stats service or workflow. Animations depend on GitHub/browser SVG rendering. The interactive UI is separate; it cannot replace GitHub's own navigation or CSS. The graphical armor assets are cropped from the generated reference mockup. This is a fan-inspired design, not an official Riot Games product.
+## Scope
+The package is an independent graphical profile, not a game asset or executable. GitHub may render SVG animations differently. The repo links are user-supplied and the linked projects are not included or independently cleared under GitHub policies. For security research, see https://docs.github.com/en/site-policy/acceptable-use-policies/github-active-malware-or-exploits.

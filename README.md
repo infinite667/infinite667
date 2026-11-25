@@ -57,13 +57,4 @@ Research and testing should be conducted only in authorized environments. See th
 <img src="assets-purple/technology.svg" alt="Technology bar chart showing selected repository counts, plus PowerShell, Git and Windows." width="100%"/>
 </p>
 
-<sub>Statistics snapshot: 25 November 2026. The language chart counts six selected projects with identifiable languages, not total source-code volume. The contribution graph is based on GitHub's public calendar. <a href="https://github.com/infinite667#contribution-activity">View current activity.</a></sub>
-
-<details>
-<summary><b>About this profile</b></summary>
-
-A black and violet profile design using local SVG graphics. Project cards are curated, not ranked by stars. The yearly contribution chart is a dated snapshot.
-
-</details>
-
 <a href="https://github.com/infinite667"><img src="assets-purple/footer.svg" alt="Research. Build. Secure. — infinite667" width="100%"/></a>
